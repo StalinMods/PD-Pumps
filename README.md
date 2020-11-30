@@ -1,6 +1,6 @@
 # PD-Pumps
 
-Stalin Mods Discord Link: discord.gg/z33aP8p                                                                                    
+[Stalin Mods Discord](discord.gg/z33aP8p)
 
 This is my first ymap ever. And also a release to add gas pumps to the PDs and FDs on the GTA 5 map!
 
